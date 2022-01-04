@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<folder>36</folder>
+	<filename>1.jpg</filename>
+	<source></source>
+	<size>
+		<width>4096</width>
+		<height>3072</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>窗</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2479.26784</xmin>
+			<ymin>864.2457599999999</ymin>
+			<xmax>3431.0144</xmax>
+			<ymax>2266.0608</ymax>
+		</bndbox>
+	</object>
+</annotation>

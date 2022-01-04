@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<folder>36</folder>
+	<filename>3.jpg</filename>
+	<source></source>
+	<size>
+		<width>3072</width>
+		<height>4096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>门</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>820.2854400000001</xmin>
+			<ymin>1943.59296</ymin>
+			<xmax>1608.37632</xmax>
+			<ymax>3144.4991999999997</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>叶子</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1837.5782399999998</xmin>
+			<ymin>323.1744</ymin>
+			<xmax>2641.7664</xmax>
+			<ymax>1009.4182400000001</ymax>
+		</bndbox>
+	</object>
+</annotation>

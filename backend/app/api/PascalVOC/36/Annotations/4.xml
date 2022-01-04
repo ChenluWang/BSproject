@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<folder>36</folder>
+	<filename>4.jpg</filename>
+	<source></source>
+	<size>
+		<width>3072</width>
+		<height>4096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>人</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1495.38816</xmin>
+			<ymin>1262.26432</ymin>
+			<xmax>1877.2684799999997</xmax>
+			<ymax>2124.92288</ymax>
+		</bndbox>
+	</object>
+</annotation>

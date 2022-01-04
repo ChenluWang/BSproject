@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<folder>58</folder>
+	<filename>1.jpg</filename>
+	<source></source>
+	<size>
+		<width>1705</width>
+		<height>1279</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>花</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238.92165</xmin>
+			<ymin>8.96579</ymin>
+			<xmax>1672.5538499999998</xmax>
+			<ymax>1259.75105</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<folder>58</folder>
+	<filename>6.jpg</filename>
+	<source></source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>猫</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4.010400000000001</xmin>
+			<ymin>274.94399999999996</ymin>
+			<xmax>710.9784</xmax>
+			<ymax>1224.8576</ymax>
+		</bndbox>
+	</object>
+</annotation>
